@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AditiKhandelwal.visitor-badge)](https://github.com/AditiKhandelwal)
 <!--
-**AditiKhandelwal/AditiKhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AditiKhandelwal/Competitive-Programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=AditiKhandelwal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AditiKhandelwal/github-readme-stats)
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AditiKhandelwal&" alt="AditiKhandelwal" /></p>
